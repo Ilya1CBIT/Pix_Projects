@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RobotizationProject xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="i1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/BR.Logic">
+  <Dependencies>
+    <ProjectDependency>
+      <Dependencies i:nil="true" />
+      <FileName>System.Globalization.4.3.0.nupkg</FileName>
+      <Hash>System.Globalization.4.3.0.nupkg</Hash>
+      <Id>System.Globalization</Id>
+      <MasterUrl>https://pix-master-dkp4.mr-3.ru/</MasterUrl>
+      <Name>System.Globalization</Name>
+      <ServerUrl i:nil="true" />
+      <Version>4.3.0</Version>
+    </ProjectDependency>
+    <ProjectDependency>
+      <Dependencies i:nil="true" />
+      <FileName>System.Globalization.4.3.0.nupkg</FileName>
+      <Hash>System.Globalization.4.3.0.nupkg</Hash>
+      <Id>System.Globalization</Id>
+      <MasterUrl>https://pix-master-dkp4.mr-3.ru/</MasterUrl>
+      <Name>System.Globalization</Name>
+      <ServerUrl i:nil="true" />
+      <Version>4.3.0</Version>
+    </ProjectDependency>
+    <ProjectDependency>
+      <Dependencies i:nil="true" />
+      <FileName>Microsoft.NETCore.Platforms.1.1.0.nupkg</FileName>
+      <Hash>Microsoft.NETCore.Platforms.1.1.0.nupkg</Hash>
+      <Id>Microsoft.NETCore.Platforms</Id>
+      <MasterUrl>https://pix-master-dkp4.mr-3.ru/</MasterUrl>
+      <Name>Microsoft.NETCore.Platforms</Name>
+      <ServerUrl i:nil="true" />
+      <Version>1.1.0</Version>
+    </ProjectDependency>
+    <ProjectDependency>
+      <Dependencies i:nil="true" />
+      <FileName>Microsoft.NETCore.Targets.1.1.0.nupkg</FileName>
+      <Hash>Microsoft.NETCore.Targets.1.1.0.nupkg</Hash>
+      <Id>Microsoft.NETCore.Targets</Id>
+      <MasterUrl>https://pix-master-dkp4.mr-3.ru/</MasterUrl>
+      <Name>Microsoft.NETCore.Targets</Name>
+      <ServerUrl i:nil="true" />
+      <Version>1.1.0</Version>
+    </ProjectDependency>
+    <ProjectDependency>
+      <Dependencies i:nil="true" />
+      <FileName>System.Runtime.4.3.0.nupkg</FileName>
+      <Hash>System.Runtime.4.3.0.nupkg</Hash>
+      <Id>System.Runtime</Id>
+      <MasterUrl>https://pix-master-dkp4.mr-3.ru/</MasterUrl>
+      <Name>System.Runtime</Name>
+      <ServerUrl i:nil="true" />
+      <Version>4.3.0</Version>
+    </ProjectDependency>
+  </Dependencies>
+  <Description></Description>
+  <Files>
+    <ProjectFileItem z:Id="i2">
+      <IsMain>false</IsMain>
+      <Path>Browser interactions.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i3">
+      <IsMain>false</IsMain>
+      <Path>CurrencyDTExtraction.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i4">
+      <IsMain>false</IsMain>
+      <Path>Write DataTable Excel File.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i5">
+      <IsMain>false</IsMain>
+      <Path>MailCheck.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i6">
+      <IsMain>false</IsMain>
+      <Path>MailSend.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i7">
+      <IsMain>true</IsMain>
+      <Path>main.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i8">
+      <IsMain>false</IsMain>
+      <Path>ExtractConfigData.pix</Path>
+    </ProjectFileItem>
+  </Files>
+  <MasterUploadId>3</MasterUploadId>
+  <Name>MOEX DataExtraction</Name>
+  <PlatformVersion xmlns:d2p1="http://schemas.datacontract.org/2004/07/System">
+    <d2p1:_Build>2</d2p1:_Build>
+    <d2p1:_Major>2</d2p1:_Major>
+    <d2p1:_Minor>27</d2p1:_Minor>
+    <d2p1:_Revision>0</d2p1:_Revision>
+  </PlatformVersion>
+  <ProjectMaterUploadIds>
+    <ProjectMaterUploadId>
+      <MasterUploadId>3</MasterUploadId>
+      <Url>https://pix-master-dkp4.mr-3.ru/</Url>
+    </ProjectMaterUploadId>
+  </ProjectMaterUploadIds>
+  <ProjectNamespaces xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:string>System</d2p1:string>
+    <d2p1:string>System.IO</d2p1:string>
+    <d2p1:string>System.Collections.Generic</d2p1:string>
+    <d2p1:string>System.Linq</d2p1:string>
+    <d2p1:string>System.Data</d2p1:string>
+    <d2p1:string>System.Xml.Linq</d2p1:string>
+    <d2p1:string>System.Globalization</d2p1:string>
+  </ProjectNamespaces>
+  <Version xmlns:d2p1="http://schemas.datacontract.org/2004/07/System">
+    <d2p1:_Build>-1</d2p1:_Build>
+    <d2p1:_Major>1</d2p1:_Major>
+    <d2p1:_Minor>0</d2p1:_Minor>
+    <d2p1:_Revision>-1</d2p1:_Revision>
+  </Version>
+</RobotizationProject>
